@@ -1,32 +1,56 @@
 ---
-title: Goldydocs
+title: Federizer
 ---
 
-{{< blocks/cover title="Welcome to Goldydocs: A Docsy Example Project!" image_anchor="top" height="full" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
+{{< blocks/cover title="Authorization-Enhanced Internet Mail" image_anchor="top" height="full" >}}
+<!-- <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
   Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
-</a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
+</a> -->
+<!-- <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
   Download <i class="fab fa-github ms-2 "></i>
-</a>
-<p class="lead mt-5">Porridge temperature assessment &mdash; in the cloud!</p>
+</a> -->
+<!-- <p class="lead mt-5">Porridge temperature assessment &mdash; in the cloud!</p> -->
+<p class="lead mt-5 text-center" style="font-weight: 500">
+  Email is the most pervasive form of business information exchange. It is used as an interpersonal
+  communication tool and often as a default choice to send files. Despite the importance of
+  the email system, the whole ecosystem relies on 50-year-old architecture and protocol design.
+</p>
+<p class="lead mt-5 text-center" style="font-weight: 500">
+  We introduce Federizer, the Authorization-Enhanced Internet Mail (AEIM) that allows users to store and exchange messages, documents, books, images, videos, and audio using a federated authorization mechanism.
+</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
+{{% blocks/section color="secondary" type="row" %}}
 
-{{% blocks/lead color="primary" %}}
-Goldydocs provides a single web UI providing visibility into porridge
+{{% blocks/feature icon="far fa-file-alt" title="Get white paper!" %}}
+<a href="https://github.com/cargomail-org/cargomail/raw/main/whitepaper/Cargomail.pdf">Download</a>
+{{% /blocks/feature %}}
+
+{{% blocks/feature icon="fab fa-github" title="Get more info!" %}}
+<a href="https://github.com/federizer">Repositories on GitHub</a>
+{{% /blocks/feature %}}
+
+{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!" %}}
+<a href="https://twitter.com/federizer">Stay up to date with our latest news</a>
+{{% /blocks/feature %}}
+
+{{< /blocks/section >}}
+
+
+<!-- {{% blocks/lead color="primary" %}}
+Federizer provides a single web UI providing visibility into porridge
 temperature, chair size, and bed softness metrics! You can even find out who's
 been eating **your** porridge.
 
-(Sadly, Goldydocs isn't a real project, but you can use this site as an example
+(Sadly, Federizer isn't a real project, but you can use this site as an example
 to create your own real websites with [Docsy](https://docsy.dev))
 {{% /blocks/lead %}}
 
 
 {{% blocks/section color="dark" type="row" %}}
 {{% blocks/feature icon="fa-lightbulb" title="New chair metrics!" %}}
-The Goldydocs UI now shows chair size metrics by default.
+The Federizer UI now shows chair size metrics by default.
 
 Please follow this space for updates!
 {{% /blocks/feature %}}
@@ -54,7 +78,7 @@ This is the second section
 {{% blocks/section type="row" %}}
 
 {{% blocks/feature icon="fab fa-app-store-ios" title="Download **from AppStore**" %}}
-Get the Goldydocs app!
+Get the Federizer app!
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fab fa-github" title="Contributions welcome!"
@@ -74,4 +98,4 @@ For announcement of latest features etc.
 {{% blocks/section %}}
 This is the another section
 {.h1 .text-center}
-{{% /blocks/section %}}
+{{% /blocks/section %}} -->
