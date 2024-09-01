@@ -16,7 +16,7 @@ title: Federizer
   the email system, the whole ecosystem relies on 50-year-old architecture and protocol design.
 </p>
 <p class="lead mt-5 text-center" style="font-weight: 500">
-  We introduce Federizer, the Federated Internet Authorizer that allows users to store and exchange messages, documents, books, images, videos, and audio through Internet Mail.
+  We introduce Federizer, a federated internet authorizer that enables users to store and exchange messages, documents, books, images, videos, and audio through Internet Mail.
 </p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
