@@ -2,7 +2,7 @@
 title: Federizer
 ---
 
-{{< blocks/cover title="Authorization-Enhanced Internet Mail" image_anchor="top" height="full" >}}
+{{< blocks/cover title="Federated Internet Authorizer" image_anchor="top" height="full" >}}
 <!-- <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
   Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a> -->
@@ -16,7 +16,7 @@ title: Federizer
   the email system, the whole ecosystem relies on 50-year-old architecture and protocol design.
 </p>
 <p class="lead mt-5 text-center" style="font-weight: 500">
-  We introduce Federizer, the Authorization-Enhanced Internet Mail (AEIM) that allows users to store and exchange messages, documents, books, images, videos, and audio using a federated authorization mechanism.
+  We introduce Federizer, the Federated Internet Authorizer that allows users to store and exchange messages, documents, books, images, videos, and audio through Internet Mail.
 </p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
