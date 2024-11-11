@@ -2,7 +2,7 @@
 title: Federizer
 ---
 
-{{< blocks/cover title="Internet Mail Federation Protocol" image_anchor="top" height="full" >}}
+{{< blocks/cover title="Federated Communications System" image_anchor="top" height="full" >}}
 <!-- <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
   Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a> -->
@@ -11,12 +11,10 @@ title: Federizer
 </a> -->
 <!-- <p class="lead mt-5">Porridge temperature assessment &mdash; in the cloud!</p> -->
 <p class="lead mt-5 text-center" style="font-weight: 500">
-  Email is the most pervasive form of business information exchange. It is used as an interpersonal
-  communication tool and often as a default choice to send files. Despite the importance of
-  the email system, the whole ecosystem relies on 50-year-old architecture and protocol design.
+  Email has long been the main way to exchange important information. It is used as an interpersonal communication tool and often as a default choice to send files. Despite its central role, the email ecosystem still relies on a 50-year-old architecture and outdated protocols.
 </p>
 <p class="lead mt-5 text-center" style="font-weight: 500">
-  We introduce Federizer, the Internet Mail Federation Protocol that enables users to store and exchange messages, documents, books, images, videos, and audio through Internet Mail.
+  We introduce Federizer, a federated communications system built on a modernized architecture. It empowers users to exchange messages, documents, books, images, videos, and audio via Internet mail. By redefining the foundation of email, Federizer brings the efficiency, security, and scalability needed for today's communication demands.
 </p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
